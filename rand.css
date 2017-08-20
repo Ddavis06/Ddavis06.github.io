@@ -12,7 +12,7 @@ body {
   height: 100vh;
 
   font-family: monospace;
-  background-imgage: http://i.imgur.com/sfpOmA8.jpg ;
+  background-imgage:url (http://i.imgur.com/sfpOmA8.jpg) ;
   text-align: center;
 }
 
