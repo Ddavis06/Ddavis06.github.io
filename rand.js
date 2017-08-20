@@ -32,6 +32,7 @@ var colors = [
   'fuchsia', 0,
   'lightblue', 0,
   'black'
+  'thefthanded.jpg'
 ];
 var cur = 0;
 
