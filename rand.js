@@ -73,3 +73,8 @@ var aListOnClick = function (event) {
     event.target.style.textDecoration = 'line-through';
   }
 }
+  
+  
+  if ( choice === student[] ) {
+    student.splice(choice, 1);
+}
