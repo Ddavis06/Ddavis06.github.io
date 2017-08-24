@@ -24,11 +24,12 @@ var students = [
 ];
 
 var colors = [
-  'hotpink',
-  'orange',
-  'fuchsia', 0,
-  'lightblue', 0,
+  'brown',
+  'DarkBlue',
+  'DarkRed', 0,
+  'FireBrick', 0,
   'black'
+  'GhostWhite'
 ];
 var cur = 0;
 
