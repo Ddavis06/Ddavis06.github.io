@@ -28,7 +28,7 @@ var colors = [
   'darkblue',
   'navy', 0,
   'firebrick', 0,
-  'black', 0,
+  'black'
 ];
 var cur = 0;
 
