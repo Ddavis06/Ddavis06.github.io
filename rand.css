@@ -27,13 +27,7 @@ img {
 
 ul {
     list-style-type: none;
-    background-image: url (thefthanded.jpg);
-    ist-style-position: inside;
+    background-image: url("thefthanded.jpg");
     margin: 0;
     padding: 0;
-}
-
-div {
-  background-image: url("thefthanded.jpg");
-
 }
