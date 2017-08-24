@@ -25,9 +25,8 @@ img {
   max-width: 60%;
 }
 
-ul {
-    list-style-image: url('thefthanded.jpg'); 
-    list-style-type: none;
+ul { 
+    list-style-type: inside url('thefthanded.jpg');
     margin: 0;
     padding: 0;
 }
