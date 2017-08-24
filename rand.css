@@ -27,7 +27,7 @@ img {
 
 ul {
     list-style-type: none;
-    background: 'thefthanded.jpg';
+    background: url('thefthanded.jpg');
     margin: 0;
     padding: 0;
 }
