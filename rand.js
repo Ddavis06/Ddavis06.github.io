@@ -25,11 +25,10 @@ var students = [
 
 var colors = [
   'brown',
-  'DarkBlue',
-  'DarkRed', 0,
-  'FireBrick', 0,
+  'darkblue',
+  'darkred', 0,
+  'firebrick', 0,
   'black'
-  'GhostWhite'
 ];
 var cur = 0;
 
