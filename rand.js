@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 var pickOnClick = function (event) {
-  choice.innerHTML = '&nbsp;'
+  choice.innerHTML = 'Desmond is not it'
   var rand = students[Math.floor(Math.random() * students.length)];
   var x = window.setInterval(() => {
     if (colors[cur] === undefined) {
