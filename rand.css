@@ -26,7 +26,7 @@ img {
 }
 
 ul { 
-    list-style-type: inside url('thefthanded.jpg');
+    list-style-image: inside url('thefthanded.jpg');
     margin: 0;
     padding: 0;
 }
