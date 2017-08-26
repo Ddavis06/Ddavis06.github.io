@@ -38,10 +38,12 @@ document.addEventListener('DOMContentLoaded', () => {
   body = document.getElementById('body');
   header = document.getElementById('header');
   pickButton = document.getElementById('pickButton');
+  pickButton2 = document.getElementById('pickButton2');
   choice = document.getElementById('choice');
   aList = document.getElementById('aList');
 
   pickButton.addEventListener('click', pickOnClick );
+  pickButton2.addEventListener('click', pickClick2 );
   aList.addEventListener('click', aListOnClick );
 
   // build the attendance list
@@ -76,7 +78,9 @@ var removeFromList = students.splice(killLine, 1)
   }
 }
 
-
+var pickClick2 = fucntion(event){
+alert("Just Chillin'")
+}
 
 // var killOnClick = function(rand){
 // kill = students.splice(Math.floor(Math.random() * students.length), 1);
