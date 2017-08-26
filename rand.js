@@ -79,7 +79,6 @@ var removeFromList = students.splice(killLine, 1)
 }
 
 var pickClick2 = fucntion (event) {
-  alert("Just Chillin'")
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ffJY0rUCYbI" frameborder="0" allowfullscreen></iframe>
 }
 
