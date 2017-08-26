@@ -38,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
   body = document.getElementById('body');
   header = document.getElementById('header');
   pickButton = document.getElementById('pickButton');
+  pickButton2 = document.getElementById('pickButton2');
   choice = document.getElementById('choice');
   aList = document.getElementById('aList');
 
