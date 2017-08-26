@@ -4,7 +4,7 @@ html {
 }
 
 body {
-/*  font-size: 24px; */
+  font-size: 24px;
   width: 25em;
   margin: 0 auto;
   padding: 0.5em 0;
@@ -26,6 +26,7 @@ button {
   font-size: 24px;
   font-family: comic sans ms;
   background: Emblem_large.png ;
+}
 
 img {
   max-width: 100%;
