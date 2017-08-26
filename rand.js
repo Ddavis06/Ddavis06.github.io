@@ -78,8 +78,9 @@ var removeFromList = students.splice(killLine, 1)
   }
 }
 
-var pickClick2 = fucntion(event){
-alert("Just Chillin'")
+var pickClick2 = fucntion (event) {
+
+  alert("Just Chillin'")
 }
 
 // var killOnClick = function(rand){
