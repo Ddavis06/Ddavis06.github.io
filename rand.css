@@ -30,8 +30,8 @@ img {
 
 ul {
     list-style-type: none;
-    list-color: light blue;
-    background-image: url('thefthanded.jpg');
+    list-background-color: light blue;
+    /*background-image: url('thefthanded.jpg');*/
     margin: 0;
     padding: 0;
 }
