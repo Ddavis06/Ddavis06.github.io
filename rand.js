@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
   aList = document.getElementById('aList');
 
   pickButton.addEventListener('click', pickOnClick );
+  pickButton2.addEventListener('click', clickPick );
   aList.addEventListener('click', aListOnClick );
 
   // build the attendance list
