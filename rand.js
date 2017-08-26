@@ -76,6 +76,9 @@ var removeFromList = students.splice(killLine, 1)
   }
 }
 
+var clickPick = function (event) {
+  alert("Just Chillen")
+}
 
 
 // var killOnClick = function(rand){
