@@ -73,3 +73,6 @@ var aListOnClick = function (event) {
     event.target.style.textDecoration = 'line-through';
   }
 }
+
+// var killOnClick = function(rand){
+// kill = students.splice(Math.floor(Math.random() * students.length), 1);
