@@ -79,4 +79,5 @@ var removeFromList = students.splice(killLine, 1)
 }
 
 var pickClick2 = fucntion (event) {
-alert("This button does nothing!")}
+alert("This button does nothing! + &#9829;
+")}
