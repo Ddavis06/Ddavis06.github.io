@@ -79,8 +79,4 @@ var removeFromList = students.splice(killLine, 1)
 }
 
 var pickClick2 = fucntion (event) {
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ffJY0rUCYbI" frameborder="0" allowfullscreen></iframe>
-}
-
-// var killOnClick = function(rand){
-// kill = students.splice(Math.floor(Math.random() * students.length), 1);
+alert("This button does nothing!")}
